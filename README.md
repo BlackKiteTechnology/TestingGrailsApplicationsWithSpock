@@ -1,4 +1,4 @@
-# TestingGrailsApplicationsWithSpock
+# Testing Grails Applications With Spock
 A plugin showing how to unit test/integration test and functional test Grails applications using Spock.
 
 This document was created by an intern working for [Black Kite Technology](http://blackkitetechnology.com) at the end of her placement - this is a guide to her experiences of testing Grails applications using Spock.  Full documentation is available by downloading/cloning this repo and running `grails doc`.
